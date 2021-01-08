@@ -1,0 +1,16 @@
+.App {
+    height: 100vh;
+    width: 100vw;
+    display: table;
+}
+
+h1 {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    
+    font-size: 150px;
+    color: grey;
+    text-shadow: 2px 2px white;
+}
+

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import './App.css';
 
 function App() {
 
@@ -24,7 +25,7 @@ function App() {
         {
             time.toLocaleTimeString()
         }
-        <h1>
+        </h1>
         </div>
     );
 }

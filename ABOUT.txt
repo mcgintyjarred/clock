@@ -1,4 +1,2 @@
-This projecct supplies the react code for a component to display the current
-time to the user. This clock will update every second like regular clock. No
-styling has been added in order to make it easier to integrate into other
-projects.
+This project supplies the react code for a component to display the current
+time to the user. This clock will update every second like regular clock. 
